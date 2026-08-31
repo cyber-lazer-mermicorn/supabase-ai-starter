@@ -12,7 +12,7 @@
     "@ai-sdk/openai": "^0.0.30",
     "@supabase/ssr": "^0.1.0",
     "@supabase/supabase-js": "^2.39.0",
-    "ai": "^3.0.0",
+    "ai": "^7.0.87",
     "next": "14.1.0",
     "openai": "^4.28.0",
     "react": "^18.2.0",
